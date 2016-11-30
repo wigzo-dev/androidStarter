@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "869817791988",
+    "firebase_url": "https://fcm-test-project-68278.firebaseio.com",
+    "project_id": "fcm-test-project-68278",
+    "storage_bucket": "fcm-test-project-68278.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869817791988:android:363c5213c829fbfa",
+        "android_client_info": {
+          "package_name": "wigzo.com.wigzopushsampleappwithfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869817791988-ukembgii9kvqfuk6n78p22fgt7l1d5hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJrgUzDuIaYh06QpQ7_Ck_iajkZJhuYh4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

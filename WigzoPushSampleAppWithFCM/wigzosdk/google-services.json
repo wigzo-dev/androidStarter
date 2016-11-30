@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1045004649731",
+    "firebase_url": "https://wigzo-push.firebaseio.com",
+    "project_id": "wigzo-push",
+    "storage_bucket": "wigzo-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045004649731:android:130407a5a5a757bb",
+        "android_client_info": {
+          "package_name": "com.wigzo.sdk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045004649731-jl8bfcofqkdsrdd03hpsshc2bvupc4ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmcxocaPZZzDJV4Sf0jcOWsJuJTcf8CTk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
