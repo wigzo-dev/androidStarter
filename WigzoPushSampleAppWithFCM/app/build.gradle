@@ -27,6 +27,6 @@ dependencies {
     compile 'com.google.firebase:firebase-messaging:10.0.1'
     compile 'com.android.support:appcompat-v7:25.0.1'
     testCompile 'junit:junit:4.12'
-    compile project(path: ':wigzosdk')
+    compile 'com.wigzo.lib:android-sdk:0.0.1:@aar'
 }
 apply plugin: 'com.google.gms.google-services'
